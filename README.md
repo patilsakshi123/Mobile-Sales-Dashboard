@@ -33,6 +33,10 @@ This project is an **interactive Power BI report** designed to analyze a compreh
 - **Total Sales by Day** – Area Chart  
 - **Total Sales by Mobile Model** – Column Chart
 
+🖼️ Dashboard Snapshots:
+
+![PAGE 1-DASHBOARD ](https://github.com/user-attachments/assets/1d51ef9a-53e9-470d-9226-96c605e371b2)
+
 ---
 
 ### 📅 **Page 2: MTD Trends**
@@ -46,6 +50,10 @@ This project is an **interactive Power BI report** designed to analyze a compreh
 
 Visualizes sales trends and performance evolution within the current month.
 
+🖼️ Dashboard Snapshots:
+
+![PAGE 2 - MTD REPORT](https://github.com/user-attachments/assets/9adac837-b1ba-4f2b-b9ce-ac116a0db6d7)
+
 ---
 
 ### 📈 **Page 3: Year-on-Year Comparison**
@@ -58,6 +66,10 @@ Visualizes sales trends and performance evolution within the current month.
 
 Highlights seasonal patterns, annual growth, and strategic opportunities.
 
+🖼️ Dashboard Snapshots:
+
+![PAGE 3 - SAME PERIOD LAST YEAR ](https://github.com/user-attachments/assets/b65c76e2-2706-442d-a5f7-d881903a8f0e)
+
 ---
 
 ### 📝 **Page 4: Automated Summary**
@@ -67,6 +79,8 @@ Uses **Smart Narrative** to auto-generate:
 - Top-performing brands and models
 - Spikes or drops in transactions and revenue
 - Simple explanations for YoY and MTD results
+
+![PAGE 4- SUMMARY ](https://github.com/user-attachments/assets/9124afdf-9a17-4e2a-b67b-b89751564c14)
 
 ---
 
